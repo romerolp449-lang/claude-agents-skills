@@ -34,3 +34,5 @@ Copy-Item -Recurse .\.claude\ C:\ruta\a\proyecto\
 | Tool | Versión | Fecha | Notas |
 |------|---------|-------|-------|
 | ECC (ecc-universal) | 2.0.0 | 2026-06-25 | Scaffolding multi-lenguaje |
+| llm-council | 0.1.4 | 2026-06-25 | Consenso multi-LLM: responder → rankear → sintetizar |
+
